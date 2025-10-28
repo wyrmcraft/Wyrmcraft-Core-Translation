@@ -7,7 +7,7 @@
     "serveur_tpa_teleportation_message": "désire se téléporter à vous.",
     "serveur_tpa_teleportation_acceptee": "Vous avez accepté la téléportation de",
     "serveur_tpa_teleportation_refusee": "Vous avez refusé la téléportation de",
-    "serveur_tpa_teleportation_pas_bouger": "Téléportation dans 3 secondes. Ne bougez pas...",
+    "serveur_tpa_teleportation_pas_bouger": "Téléportation au spawn dans 3 secondes. Ne bougez pas.",
     "serveur_tpa_teleportation_reussie": "Téléportation réussie.",
     "serveur_tpa_teleportation_annulee": "Téléportation annulée : vous ne devez pas bouger.",
     "serveur_tpa_erreur_utilisation": "Vous devez utiliser : /tpa <joueur>",
@@ -41,6 +41,13 @@
     "serveur_warp_erreur_nom_inexistant": "Aucun point de téléportation ne correspond à ce nom.",
     "serveur_warp_erreur_suppression_choisir_nom": "Vous devez choisir un point de téléportation à supprimer.",
     "serveur_warp_erreur_en_cours_de_recharge": "se recharge. Patientez encore",
+    "serveur_warp_erreur_monde_reinitialise": "Point de téléportation inaccessible suite à la réinitialisation.",
+    "serveur_spawn_action_teleportation_admin": "Téléportation instantanée au spawn.",
+    "serveur_spawn_action_teleportation_en_cours": "Téléportation au spawn dans 3 secondes. Ne bougez pas.",
+    "serveur_spawn_action_teleportation_reussie": "Téléportation réussie.",
+    "serveur_spawn_teleportation_annulee_deplacement": "Téléportation annulée : vous ne devez pas bouger.",
+    "serveur_spawn_teleportation_annulee_degats": "Téléportation annulée : vous avez subi des dégâts.",
+    "serveur_spawn_erreur_cmd_rechargement": "Commande en cours de recharge. Patientez",
     "serveur_pnj_1_titre": "Marchande de chasse",
     "serveur_pnj_2_titre": "Marchande de marée",
     "serveur_pnj_3_titre": "Apothicaire de bouche",
@@ -61,5 +68,6 @@
     "serveur_pnj_18_titre": "Expert Chasseur",
     "serveur_pnj_24_titre": "Aubergiste",
     "serveur_pnj_25_titre": "Dame de l'Auberge",
-    "serveur_pnj_27_titre": "Postière"
+    "serveur_pnj_27_titre": "Postière",
+    "serveur_pnj_29_titre": "Vendeuse de fleurs"
 }
